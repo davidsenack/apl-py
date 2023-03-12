@@ -1,2 +1,2 @@
 # apl-py
-An APL-like language implemented on top of Python and Numpy 
+An APL-like syntax implemented on top of Python and Numpy 
